@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7MetQytjBKEAZeIopvR385UIZa/wpJwgP/0yO0eNQ4rS5cKGXWx3S0+O/uDLer63pwIuEDYU+2Qi/4pPaPypg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SpurSol-Ali\\source\\repos\\DemoProj\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SpurSol-Ali\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.8\\microsoft.aspnetcore.spaservices.extensions.5.0.8.nupkg.sha512",
+    "C:\\Users\\SpurSol-Ali\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\SpurSol-Ali\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\SpurSol-Ali\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\SpurSol-Ali\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
